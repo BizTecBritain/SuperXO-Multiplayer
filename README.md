@@ -11,19 +11,19 @@
     <img src="https://github.com/BizTecBritain/BizTecBritain/blob/main/BizTec.png" alt="Logo" width="580" height="300">
   </a>
 
-  <h3 align="center">SuperXO</h3>
+  <h3 align="center">SuperXO Multiplayer</h3>
 
   <p align="center">
-    A React page that allows you to play Super Tic Tac Toe
+    A React page that allows you to play Super Tic Tac Toe Multiplayer
     <br />
-    <a href="https://github.com/BizTecBritain/SuperXO/blob/main/docs/Usage.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/BizTecBritain/SuperXO-Multiplayer/blob/main/docs/Usage.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/BizTecBritain/SuperXO">View Demo</a>
+    <a href="https://github.com/BizTecBritain/SuperXO-Multiplayer">View Demo</a>
     ·
-    <a href="https://github.com/BizTecBritain/SuperXO/issues">Report Bug</a>
+    <a href="https://github.com/BizTecBritain/SuperXO-Multiplayer/issues">Report Bug</a>
     ·
-    <a href="https://github.com/BizTecBritain/SuperXO/issues">Request Feature</a>
+    <a href="https://github.com/BizTecBritain/SuperXO-Multiplayer/issues">Request Feature</a>
   </p>
 </p>
 
@@ -58,7 +58,7 @@
 ## About The Project
 
 There is a game called [Strategic Tic Tac Toe](https://www.coolmathgames.com/0-strategic-tic-tac-toe).
-As per usual I was bored and so I decided to try to program it from scratch!
+As per usual I was bored and so I decided to try to program a multiplayer version!
 
 
 ### Built With
@@ -83,15 +83,15 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 
-Clone the repo with ```$ git clone https://github.com/BizTecBritain/SuperXO.git```
+Clone the repo with ```$ git clone https://github.com/BizTecBritain/SuperXO-Multiplayer.git```
 
-Then enter the directory with ```$ cd SuperXO```
+Then enter the directory with ```$ cd SuperXO-Multiplayer```
 
 ## Usage
 
 First verify you are in the correct directory, if not, run
 ```
-$ cd SuperXO
+$ cd SuperXO-Multiplayer
 ```
 
 Then to use this code run
@@ -99,13 +99,13 @@ Then to use this code run
 $ npm run dev
 ```
 
-_For more examples, please refer to the [Documentation](https://github.com/BizTecBritain/SuperXO/blob/main/docs/Usage.md)_
+_For more examples, please refer to the [Documentation](https://github.com/BizTecBritain/SuperXO-Multiplayer/blob/main/docs/Usage.md)_
 
 
 
 ## Roadmap
 
-See the [open issues](https://github.com/BizTecBritain/SuperXO/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/BizTecBritain/SuperXO-Multiplayer/issues) for a list of proposed features (and known issues).
 
 
 
@@ -125,7 +125,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Alexander Bisland - Twitter: [@BizTecBritain](https://twitter.com/BizTecBritain) - Email: BizTecBritain@gmail.com
 
-Project Link: [https://github.com/BizTecBritain/SuperXO](https://github.com/BizTecBritain/SuperXO) 
+Project Link: [https://github.com/BizTecBritain/SuperXO-Multiplayer](https://github.com/BizTecBritain/SuperXO-Multiplayer) 
 
 
 
@@ -133,11 +133,11 @@ Project Link: [https://github.com/BizTecBritain/SuperXO](https://github.com/BizT
 
 * Thanks to [othneildrew](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md) for the blank README.md file
 
-[contributors-shield]: https://img.shields.io/github/contributors/BizTecBritain/SuperXO.svg?style=for-the-badge
-[contributors-url]: https://github.com/BizTecBritain/SuperXO/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/BizTecBritain/SuperXO.svg?style=for-the-badge
-[forks-url]: https://github.com/BizTecBritain/SuperXO/network/members
-[issues-shield]: https://img.shields.io/github/issues/BizTecBritain/SuperXO.svg?style=for-the-badge
-[issues-url]: https://github.com/BizTecBritain/SuperXO/issues
+[contributors-shield]: https://img.shields.io/github/contributors/BizTecBritain/SuperXO-Multiplayer.svg?style=for-the-badge
+[contributors-url]: https://github.com/BizTecBritain/SuperXO-Multiplayer/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/BizTecBritain/SuperXO-Multiplayer.svg?style=for-the-badge
+[forks-url]: https://github.com/BizTecBritain/SuperXO-Multiplayer/network/members
+[issues-shield]: https://img.shields.io/github/issues/BizTecBritain/SuperXO-Multiplayer.svg?style=for-the-badge
+[issues-url]: https://github.com/BizTecBritain/SuperXO-Multiplayer/issues
 <!--[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/username-->
